@@ -1,0 +1,10 @@
+<opml version="2.0">
+<head>
+  <title>Public Feeds of Cohost Members</title>
+<body>
+  <outline text="Emma's Site" description="#space, #queer, #music" htmlUrl="https://emmas.site/" xmlUrl="https://emmas.site/blog/atom.xml"/>
+  <outline text="Sweetfish" description="#books, #movies" htmlUrl="https://sweetfish.site/" xmlUrl="https://sweetfish.site/feed.txt"/>
+  <outline text="Heather Flowers" description="#games" htmlUrl="https://buttondown.com/HTHR" xmlUrl="https://buttondown.com/HTHR/rss"/>
+</body>
+</head>
+</opml>
