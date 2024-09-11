@@ -34,7 +34,20 @@ permalink: ./opml.xslt
 
   <xsl:template match="outline">
     <ul>
-      <li><xsl:value-of select="@text" /></li>
+      <li><xsl:value-of select="@text" />
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@htmlUrL" />
+          </xsl:attribute>
+          Website
+        </a> |
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@xmlUrl" />
+          </xsl:attribute>
+          Feed
+        </a>
+      </li>
       <xsl:apply-templates select="outline" />
     </ul>
   </xsl:template>
