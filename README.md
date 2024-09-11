@@ -1,3 +1,6 @@
+---
+permalink: ./index
+---
 This hosts an [OPML file](cohost.opml) for people from the Cohost community to share their RSS feeds. 
 
 To have your feed or feeds added:

@@ -1,3 +1,7 @@
+---
+layout: null
+permalink: ./cohost.opml
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="/opml.xslt" type="text/xsl"?>
 <opml version="2.0">
