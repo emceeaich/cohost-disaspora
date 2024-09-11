@@ -8,5 +8,6 @@
   <outline text="@fish" description="#books, #movies" htmlUrl="https://sweetfish.site/" xmlUrl="https://sweetfish.site/feed.txt" />
   <outline text="@hthrflwrs" description="#games" htmlUrl="https://buttondown.com/HTHR" xmlUrl="https://buttondown.com/HTHR/rss" />
   <outline text="@aloe" description="#games, #blog" htmlUrl="https://aloe.gay/" xmlUrl="https://aloe.gay/feed.xml" />
+  <outline text="@meditationfunnies" description="#minicomics, #zines" htmlUrl="http://eliashiebert.com/" xmlUrl="http://eliashiebert.com/rss.xml" />
 </body>
 </opml>
