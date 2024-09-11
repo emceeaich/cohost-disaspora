@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: ./cohost.opml
+permalink: ./cohost.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="/opml.xslt" type="text/xsl"?>
