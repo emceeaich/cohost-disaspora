@@ -6,8 +6,8 @@
 </head>
 <body>
   <outline text="@emmah" description="#space, #queer, #music" htmlUrl="https://emmas.site/" xmlUrl="https://emmas.site/blog/atom.xml" />
-  <outline text="@sweetfish" description="#books, #movies" htmlUrl="https://sweetfish.site/" xmlUrl="https://sweetfish.site/feed.txt" />
-  <outline text="@hthrflwr" description="#games" htmlUrl="https://buttondown.com/HTHR" xmlUrl="https://buttondown.com/HTHR/rss" />
+  <outline text="@fish" description="#books, #movies" htmlUrl="https://sweetfish.site/" xmlUrl="https://sweetfish.site/feed.txt" />
+  <outline text="@hthrflwrs" description="#games" htmlUrl="https://buttondown.com/HTHR" xmlUrl="https://buttondown.com/HTHR/rss" />
   <outline text="@aloe" description="#games, #blog" htmlUrl="https://aloe.gay/" xmlUrl="https://aloe.gay/feed.xml" />
 </body>
 </opml>
