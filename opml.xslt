@@ -47,6 +47,7 @@ permalink: ./opml.xslt
           </xsl:attribute>
           Feed
         </a>
+        Tags: <xsl:value-of select="@description" />
       </li>
       <xsl:apply-templates select="outline" />
     </ul>
