@@ -3,7 +3,7 @@ layout: null
 permalink: ./cohost.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="/opml.xslt" type="text/xsl"?>
+<?xml-stylesheet href="https://emceeaich.github.io/cohost-disaspora/opml.xslt" type="text/xsl"?>
 <opml version="2.0">
 <head>
   <title>Public Feeds of Cohost Members</title>
